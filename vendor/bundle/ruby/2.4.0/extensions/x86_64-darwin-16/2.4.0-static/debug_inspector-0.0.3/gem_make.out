@@ -1,0 +1,15 @@
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/sei0823/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20180922-74592-de1pel.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 debug_inspector.bundle ./.gem.20180922-74592-1ey683u

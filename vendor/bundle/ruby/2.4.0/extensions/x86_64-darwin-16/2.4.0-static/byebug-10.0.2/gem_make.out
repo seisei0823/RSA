@@ -1,0 +1,19 @@
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+/Users/sei0823/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20180922-74592-8dzmo9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20180922-74592-1i0euxb/byebug
