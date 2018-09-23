@@ -1,0 +1,18 @@
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/jaro_winkler-1.5.1/ext/jaro_winkler
+/Users/sei0823/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20180923-46201-1r6k8db.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/jaro_winkler-1.5.1/ext/jaro_winkler
+make "DESTDIR=" clean
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/jaro_winkler-1.5.1/ext/jaro_winkler
+make "DESTDIR="
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.bundle
+
+current directory: /Users/sei0823/Desktop/projects/RSA/vendor/bundle/ruby/2.4.0/gems/jaro_winkler-1.5.1/ext/jaro_winkler
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 jaro_winkler_ext.bundle ./.gem.20180923-46201-1xknjm5/jaro_winkler
